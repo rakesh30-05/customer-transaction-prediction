@@ -2,7 +2,7 @@
 
 Predicting whether a customer will make a transaction using machine learning, based on customer-related features — helping financial institutions identify potential customers and improve targeted marketing strategies.
 
-**🔗 Live App:** https://your-streamlit-app-url.streamlit.app/
+**🔗 Live App:** https://customer-transaction-prediction-ag5vfexqriw92szjckexju.streamlit.app/
 
 ---
 
